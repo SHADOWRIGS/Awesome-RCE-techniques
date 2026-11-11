@@ -1,0 +1,8 @@
+{
+    "name": "GLPI - Install shellcommand Plugin Remote Code Execution (Authenticated)",
+    "work_in_progress": false,
+    "references": [
+        "https://glpi-project.org/",
+        "https://github.com/glpi-project/glpi/"
+    ]
+}

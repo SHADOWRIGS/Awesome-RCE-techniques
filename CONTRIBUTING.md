@@ -2,11 +2,11 @@
 
 ### Welcome contributors!
 
-First off, thank you for considering contributing to Awesome-RCE-techniques. It's people like you that make Awesome-RCE-techniques such a great ressource.
+First off, thank you for considering contributing to Awesome-RCE-techniques. It's people like you that make Awesome-RCE-techniques such a great resource.
 
 ### Our guidelines.
 
-Please take a moment to review this document in order to make the contribution process easy and effective for everyone involved. Awesome-RCE-techniques is a compilation of code exectution techniques that aims to be the most comprehansive and beginner friendly.
+Please take a moment to review this document in order to make the contribution process easy and effective for everyone involved. Awesome-RCE-techniques is a compilation of code execution techniques that aims to be the most comprehensive and beginner friendly.
 
 
 ### Contributions we are looking for.
@@ -16,11 +16,11 @@ Documentating all the RCE techniques is a time consuming process, you can help b
  * Reporting a technique or an application that isn't covered yet. Consider adding all the informations you got to help 
 the team (github page, version, screenshot, documentation, walkthrough ...)
  * Writing a step-by-step process of how to achieve Remote Code Execution on this application.
- * Providing test environnment (docker) to allow everyone to try these Remote Code Execution (RCE) techniques locally.
+ * Providing test environment (Docker) to allow everyone to try these Remote Code Execution (RCE) techniques locally.
 
 ### Contributions we are NOT looking for.
 
-Please, don't use the issue tracker for support questions. If you can't figure out how to RCE an application, feel free to check this ressources:
+Please, don't use the issue tracker for support questions. If you can't figure out how to RCE an application, feel free to check these resources:
 
  * The Hacker Recipes (https://www.thehacker.recipes/)
  * HackTricks (https://book.hacktricks.xyz/welcome/readme)

@@ -3,18 +3,32 @@
 <p align="center">
   Awesome list of techniques to achieve Remote Code Execution (RCE) on various apps!
   <br>
-  <img alt="Number of RCE techniques" src="https://img.shields.io/badge/techniques-24-brightgreen">
+  <img alt="Number of RCE techniques" src="https://img.shields.io/badge/techniques-25-brightgreen">
   <a href="https://twitter.com/intent/follow?screen_name=podalirius_" title="Follow"><img src="https://img.shields.io/twitter/follow/podalirius_?label=Podalirius&style=social"></a>
   <a href="https://www.youtube.com/c/Podalirius_?sub_confirmation=1" title="Subscribe"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCF_x5O7CSfr82AfNVTKOv_A?style=social"></a>
   <br>
 </p>
 
+## Table of Contents
+
+- [Goal of this project](#goal-of-this-project)
+- [Techniques](#techniques)
+  - [Content Management Systems (CMS)](#content-management-systems-cms)
+  - [Frameworks](#frameworks)
+  - [Learning Management Systems (LMS)](#learning-management-systems-lms)
+  - [Other](#other)
+- [Work in progress](#work-in-progress)
+- [Contributing](#contributing)
+- [Troubleshooting](#troubleshooting)
+- [Contributors](#contributors)
+
 ## Goal of this project
 
-The goal of this project is to provide an OpenSource knowledge database of all the techniques to achieve Remote Code Execution (RCE) on various applications. All of these techniques also comes with a test environnement (usually a Docker image) for you to train these techniques.
+The goal of this project is to provide an OpenSource knowledge database of all the techniques to achieve Remote Code Execution (RCE) on various applications. All of these techniques also come with a test environment (usually a Docker image) for you to train these techniques.
 
 ## Techniques
 
+### Content Management Systems (CMS)
 
  - [Content-Management-Systems-(CMS)](./Content-Management-Systems-(CMS)/)
    + [**Drupal**: (3 techniques)](./Content-Management-Systems-(CMS)/Drupal/)
@@ -24,6 +38,7 @@ The goal of this project is to provide an OpenSource knowledge database of all t
    + [**Typo3**: (1 technique)](./Content-Management-Systems-(CMS)/Typo3/)
    + [**Wordpress**: (3 techniques)](./Content-Management-Systems-(CMS)/Wordpress/)
 
+### Frameworks
 
  - [Frameworks](./Frameworks/)
    + [**Apache-Tomcat**: (2 techniques)](./Frameworks/Apache-Tomcat/)
@@ -31,14 +46,17 @@ The goal of this project is to provide an OpenSource knowledge database of all t
    + [**JoGet**: (1 technique)](./Frameworks/JoGet/)
    + [**WildFly**: (1 technique)](./Frameworks/WildFly/)
 
+### Learning Management Systems (LMS)
 
  - [Learning-Management-Systems-(LMS)](./Learning-Management-Systems-(LMS)/)
    + [**Moodle**: (1 technique)](./Learning-Management-Systems-(LMS)/Moodle/)
 
+### Other
 
  - [Other](./Other/)
    + [**GiTea**: (1 technique)](./Other/GiTea/)
    + [**Gitlab**: (1 technique)](./Other/Gitlab/)
+   + [**GLPI**: (1 technique)](./Other/GLPI/)
    + [**Jenkins**: (1 technique)](./Other/Jenkins/)
    + [**LimeSurvey**: (1 technique)](./Other/LimeSurvey/)
    + [**PHP**: (1 technique)](./Other/PHP/)
@@ -46,12 +64,14 @@ The goal of this project is to provide an OpenSource knowledge database of all t
    + [**Webmin**: (1 technique)](./Other/Webmin/)
 
 
-
 ## Work in progress
 
 These techniques are a work in progress. You can help us finish them by opening a pull request!
 
 
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.
 
 ## Troubleshooting
 

@@ -1,9 +1,9 @@
 # GLPI-RCE-Authenticated
 How to RCE as a glpi administrator
 
-``
+```
 Gestionnaire Libre de Parc Informatique (GLPI) is a Free Asset and IT Management Software package, that provides ITIL Service Desk features, licenses tracking and software auditing.
-``
+```
 
 https://github.com/glpi-project/glpi
 

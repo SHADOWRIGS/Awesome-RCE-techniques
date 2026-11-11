@@ -4,6 +4,7 @@
 
  - [**GiTea**: (1 technique)](./GiTea/)
  - [**Gitlab**: (1 technique)](./Gitlab/)
+ - [**GLPI**: (1 technique)](./GLPI/)
  - [**Jenkins**: (1 technique)](./Jenkins/)
  - [**LimeSurvey**: (1 technique)](./LimeSurvey/)
  - [**PHP**: (1 technique)](./PHP/)
